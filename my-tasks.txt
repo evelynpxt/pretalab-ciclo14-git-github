@@ -1,0 +1,4 @@
+Minhas tarefas diárias:
+- Estudar programação
+- Participar das aulas da Pretalab
+- Praticar exercícios no GitHub
